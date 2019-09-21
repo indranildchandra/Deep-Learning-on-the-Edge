@@ -6,4 +6,16 @@ Accessible and affordable compute power, volume and variety of data, better algo
 # How-to Links:
 1. Setup OpenVINO Toolkit - https://docs.openvinotoolkit.org/2019_R2/index.html
 2. Setup NCS2 - https://software.intel.com/en-us/articles/get-started-with-neural-compute-stick
-3. Setup Intel Realsense D435i Depth Camera - https://www.intelrealsense.com/videos-and-tutorials/  
+3. Setup Intel Realsense D435i Depth Camera - https://www.intelrealsense.com/videos-and-tutorials/
+
+
+# Links to other repositories containing other demos used in the talk:
+- https://github.com/indranildchandra/Intel-Realsense-SLAM-Robotics
+- https://github.com/laukik-hase/rsslam_ws
+
+
+# Other Demo Videos:
+- [Intel Realsense D435i Depth Camera - Basic Mapping Demo](https://www.youtube.com/watch?v=KcBZrFVRxlI)
+- [Intel Realsense D435i Depth Camera - IMU Pitch & Roll Demo](https://www.youtube.com/watch?v=qOyn-O5LZNQ)
+- [Intel Realsense D435i Depth Camera - Mapping & Localization Demo](https://www.youtube.com/watch?v=0L_K3DQey9I)
+- [Autonomous Quadruped Robot Demo](https://www.youtube.com/watch?v=NFO0sFC34yE)
