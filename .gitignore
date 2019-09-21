@@ -1,18 +1,7 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+/yolo-object-detection/*.pyc
+/yolo-object-detection/__pycache__
+/yolo-object-detection/yolo-coco/*.weights
 
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+/real-time-object-detection/*.pyc
+/real-time-object-detection/__pycache__
+/real-time-object-detection/*.caffemodel

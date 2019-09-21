@@ -1,0 +1,1 @@
+Download real-time object detection caffemodel file from https://drive.google.com/file/d/0B3gersZ2cHIxZi13UWF0OXBsZzA/view inside real-time-object-detection folder and rename it to MobileNetSSD_deploy.caffemodel 
