@@ -1,1 +1,1 @@
-# Deep_Learning_on_the_Edge
+# Deep-Learning-on-the-Edge
